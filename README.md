@@ -1,4 +1,5 @@
 **Features:**
+
 Data Exploration: Initial exploration and analysis of the dataset to gain insights into transaction patterns.
 
 Data Preprocessing: Removing duplicates, scaling features, and handling class imbalance for model training.
@@ -10,6 +11,7 @@ Performance Evaluation: Using K-fold cross-validation to assess model performanc
 Pipeline and Hyperparameter Tuning: Building a robust pipeline for preprocessing and classification, followed by hyperparameter tuning using Grid Search.
 
 **Libraries Used:**
+
 pandas,
 
 numpy,
