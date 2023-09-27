@@ -30,10 +30,10 @@ Performance Evaluation: Using K-fold cross-validation to assess model performanc
 Pipeline and Hyperparameter Tuning: Building a robust pipeline for preprocessing and classification, followed by hyperparameter tuning using Grid Search.
 
 **Libraries Used:**
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-xgboost
+pandas,
+numpy,
+matplotlib,
+seaborn,
+scikit-learn,
+xgboost,
 imbalanced-learn (imblearn)
