@@ -1,4 +1,4 @@
-##Features:
+## Features:
 
 **Data Exploration:** Initial exploration and analysis of the dataset to gain insights into transaction patterns.
 
@@ -10,7 +10,7 @@
 
 **Pipeline and Hyperparameter Tuning:** Building a robust pipeline for preprocessing and classification, followed by hyperparameter tuning using Grid Search.
 
-##Libraries Used:
+## Libraries Used:
 
 pandas
 
